@@ -255,7 +255,7 @@ nowuiKit = {
     }, 6),
 
     initContactUsMap: function() {
-        var myLatlng = new google.maps.LatLng(52.223535, 21.019249);
+        var myLatlng = new google.maps.LatLng(52.288398, 21.047316);
         var mapOptions = {
             zoom: 13,
             center: myLatlng,
