@@ -162,12 +162,12 @@
     .image-container{
         &.image-right{
             top: 80px;
-            margin-left: - 100px;
+            margin-left: - 10px;
             margin-bottom: 130px;
         }
 
         &.image-left{
-            margin-right: -100px;
+            margin-right: 0px;
         }
     }
 }

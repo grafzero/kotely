@@ -8,7 +8,7 @@
         }
     }
 
-    [class*="col-md-"]:nth-child(2){
+    [class*="col-md-"]:nth-child(2n){
         margin-top: 45px;
     }
 }
