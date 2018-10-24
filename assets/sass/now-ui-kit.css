@@ -3275,7 +3275,7 @@ p {
 .description,
 .card-description,
 .footer-big p {
-  color: #9A9A9A;
+  color: black;
   font-weight: 300; }
 
 .category {
@@ -10037,5 +10037,7 @@ Created using IcoMoon - icomoon.io
   .section-images .hero-images-container-2 {
     top: 66%;
     right: 14%; } }
+body {
+  background-color: #e8e8e8; }
 
 /*# sourceMappingURL=now-ui-kit.css.map */
